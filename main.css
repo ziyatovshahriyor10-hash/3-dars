@@ -1,0 +1,33 @@
+body{
+    background-color:#2A5D5A;
+}
+.textbook{
+    background-color: #311313;
+    width: 636px;
+    height: 116px;
+    margin: auto;
+    margin-top: 30px;
+}
+.title{
+    text-align: center;
+    color: whitesmoke;
+    font-size:75px;
+    margin-bottom: 30px;
+}
+.ota{
+    border: 10px solid #FF0606;
+    width: 1000px;
+    height: 638px;
+    margin: auto;
+    background-color: black;
+}
+.bola{
+    margin: auto;
+    width: 896px;
+    height: 259px;
+    background-color:rgba(31, 232, 183, 1);
+}
+p{
+    
+    font-size: 30px;
+}
